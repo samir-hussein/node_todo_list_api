@@ -23,7 +23,7 @@ module.exports = {
     },
     servers: [
         {
-            url: "http://localhost:8080/api", // url
+            url: "http://localhost:80/api", // url
             description: "Local server", // name
         },
     ],
